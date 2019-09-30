@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/juan/Documents/Spring2018/CS2420/Assignment4/Assignment4.cpp
+iostream
+-
+map
+-
+list
+-
+string
+-
+sstream
+-
+memory
+-
+conio.h
+-
+cstdio
+-
+
